@@ -1,0 +1,286 @@
+~~~~~~ ROUND: 1 ~~~~~~
+Fremad Amager (FA)                       1   1   0   0   5   0   5   3   W  
+Football Club Nordsjaelland (FCN)        1   1   0   0   5   1   4   3   W  
+Vejle Boldklub (VBK)                     1   1   0   0   5   1   4   3   W  
+Nykoebing FC (NFC)                       1   1   0   0   3   0   3   3   W  
+AC Horsens (ACH)                         1   1   0   0   2   0   2   3   W  
+Lyngby Boldklub (LBK)                    1   1   0   0   1   0   1   3   W  
+Football Club Midtjylland (FCM)          1   0   0   1   0   1   -1  0   L  
+Braendby Idraetsforening (BIF)           1   0   0   1   0   2   -2  0   L  
+Football Club Koebenhavn (FCK)           1   0   0   1   0   3   -3  0   L  
+Aalborg Boldklub (AAB)                   1   0   0   1   1   5   -4  0   L  
+Silkeborg Idraetsforening (SIF)          1   0   0   1   1   5   -4  0   L  
+Aarhus Gymnastikforening (AGF)           1   0   0   1   0   5   -5  0   L  
+~~~~~~ ROUND: 2 ~~~~~~
+Vejle Boldklub (VBK)                     2   2   0   0   7   1   6   6   WW 
+Football Club Nordsjaelland (FCN)        2   2   0   0   8   3   5   6   WW 
+AC Horsens (ACH)                         2   1   1   0   5   3   2   4   WD 
+Lyngby Boldklub (LBK)                    2   1   1   0   3   2   1   4   WD 
+Fremad Amager (FA)                       2   1   0   1   5   2   3   3   WL 
+Nykoebing FC (NFC)                       2   1   0   1   4   3   1   3   WL 
+Football Club Midtjylland (FCM)          2   1   0   1   3   2   1   3   LW 
+Football Club Koebenhavn (FCK)           2   1   0   1   5   5   0   3   LW 
+Silkeborg Idraetsforening (SIF)          2   0   1   1   3   7   -4  1   LD 
+Aarhus Gymnastikforening (AGF)           2   0   1   1   3   8   -5  1   LD 
+Aalborg Boldklub (AAB)                   2   0   0   2   3   8   -5  0   LL 
+Braendby Idraetsforening (BIF)           2   0   0   2   2   7   -5  0   LL 
+~~~~~~ ROUND: 3 ~~~~~~
+AC Horsens (ACH)                         3   2   1   0   9   5   4   7   WDW
+Football Club Nordsjaelland (FCN)        3   2   0   1   9   5   4   6   WWL
+Vejle Boldklub (VBK)                     3   2   0   1   9   5   4   6   WWL
+Fremad Amager (FA)                       3   2   0   1   7   3   4   6   WLW
+Football Club Midtjylland (FCM)          3   2   0   1   6   3   3   6   LWW
+Lyngby Boldklub (LBK)                    3   1   2   0   8   7   1   5   WDD
+Silkeborg Idraetsforening (SIF)          3   1   1   1   5   8   -3  4   LDW
+Nykoebing FC (NFC)                       3   1   0   2   5   5   0   3   WLL
+Football Club Koebenhavn (FCK)           3   1   0   2   6   8   -2  3   LWL
+Braendby Idraetsforening (BIF)           3   1   0   2   5   9   -4  3   LLW
+Aalborg Boldklub (AAB)                   3   0   1   2   8   13  -5  1   LLD
+Aarhus Gymnastikforening (AGF)           3   0   1   2   5   11  -6  1   LDL
+~~~~~~ ROUND: 4 ~~~~~~
+AC Horsens (ACH)                         4   3   1   0   13  8   5   10  WDWW
+Fremad Amager (FA)                       4   3   0   1   12  5   7   9   WLWW
+Football Club Midtjylland (FCM)          4   3   0   1   11  5   6   9   LWWW
+Vejle Boldklub (VBK)                     4   2   0   2   13  10  3   6   WWLL
+Football Club Nordsjaelland (FCN)        4   2   0   2   12  9   3   6   WWLL
+Braendby Idraetsforening (BIF)           4   2   0   2   10  13  -3  6   LLWW
+Lyngby Boldklub (LBK)                    4   1   2   1   10  12  -2  5   WDDL
+Football Club Koebenhavn (FCK)           4   1   1   2   10  12  -2  4   LWLD
+Aalborg Boldklub (AAB)                   4   1   1   2   13  16  -3  4   LLDW
+Silkeborg Idraetsforening (SIF)          4   1   1   2   7   13  -6  4   LDWL
+Nykoebing FC (NFC)                       4   1   0   3   8   10  -2  3   WLLL
+Aarhus Gymnastikforening (AGF)           4   0   2   2   9   15  -6  2   LDLD
+~~~~~~ ROUND: 5 ~~~~~~
+AC Horsens (ACH)                         5   4   1   0   17  9   8   13  DWWW
+Football Club Midtjylland (FCM)          5   4   0   1   16  7   9   12  WWWW
+Vejle Boldklub (VBK)                     5   3   0   2   17  12  5   9   WLLW
+Fremad Amager (FA)                       5   3   0   2   13  8   5   9   LWWL
+Football Club Nordsjaelland (FCN)        5   2   1   2   17  14  3   7   WLLD
+Braendby Idraetsforening (BIF)           5   2   1   2   15  18  -3  7   LWWD
+Silkeborg Idraetsforening (SIF)          5   2   1   2   10  14  -4  7   DWLW
+Nykoebing FC (NFC)                       5   2   0   3   11  11  0   6   LLLW
+Lyngby Boldklub (LBK)                    5   1   2   2   11  16  -5  5   DDLL
+Football Club Koebenhavn (FCK)           5   1   1   3   11  15  -4  4   WLDL
+Aalborg Boldklub (AAB)                   5   1   1   3   15  21  -6  4   LDWL
+Aarhus Gymnastikforening (AGF)           5   0   2   3   11  19  -8  2   DLDL
+~~~~~~ ROUND: 6 ~~~~~~
+AC Horsens (ACH)                         6   4   2   0   22  14  8   14  WWWD
+Football Club Midtjylland (FCM)          6   4   0   2   17  9   8   12  WWWL
+Vejle Boldklub (VBK)                     6   4   0   2   21  15  6   12  LLWW
+Fremad Amager (FA)                       6   4   0   2   15  9   6   12  WWLW
+Braendby Idraetsforening (BIF)           6   3   1   2   20  19  1   10  WWDW
+Silkeborg Idraetsforening (SIF)          6   3   1   2   11  14  -3  10  WLWW
+Football Club Nordsjaelland (FCN)        6   2   2   2   19  16  3   8   LLDD
+Nykoebing FC (NFC)                       6   2   1   3   16  16  0   7   LLWD
+Lyngby Boldklub (LBK)                    6   1   2   3   12  21  -9  5   DLLL
+Football Club Koebenhavn (FCK)           6   1   1   4   14  19  -5  4   LDLL
+Aalborg Boldklub (AAB)                   6   1   1   4   15  22  -7  4   DWLL
+Aarhus Gymnastikforening (AGF)           6   0   3   3   13  21  -8  3   LDLD
+~~~~~~ ROUND: 7 ~~~~~~
+Football Club Midtjylland (FCM)          7   5   0   2   19  10  9   15  WWLW
+AC Horsens (ACH)                         7   4   2   1   23  16  7   14  WWDL
+Silkeborg Idraetsforening (SIF)          7   4   1   2   16  16  0   13  LWWW
+Vejle Boldklub (VBK)                     7   4   0   3   25  20  5   12  LWWL
+Fremad Amager (FA)                       7   4   0   3   17  14  3   12  WLWL
+Football Club Nordsjaelland (FCN)        7   3   2   2   24  20  4   11  LDDW
+Nykoebing FC (NFC)                       7   3   1   3   18  16  2   10  LWDW
+Braendby Idraetsforening (BIF)           7   3   1   3   20  21  -1  10  WDWL
+Lyngby Boldklub (LBK)                    7   2   2   3   16  21  -5  8   LLLW
+Football Club Koebenhavn (FCK)           7   1   2   4   16  21  -5  5   DLLD
+Aalborg Boldklub (AAB)                   7   1   2   4   17  24  -7  5   WLLD
+Aarhus Gymnastikforening (AGF)           7   0   3   4   13  25  -12 3   DLDL
+~~~~~~ ROUND: 8 ~~~~~~
+Football Club Midtjylland (FCM)          8   5   1   2   19  10  9   16  WLWD
+Silkeborg Idraetsforening (SIF)          8   5   1   2   18  16  2   16  WWWW
+Vejle Boldklub (VBK)                     8   5   0   3   29  20  9   15  WWLW
+AC Horsens (ACH)                         8   4   2   2   23  18  5   14  WDLL
+Fremad Amager (FA)                       8   4   1   3   21  18  3   13  LWLD
+Football Club Nordsjaelland (FCN)        8   3   2   3   24  21  3   11  DDWL
+Braendby Idraetsforening (BIF)           8   3   2   3   20  21  -1  11  DWLD
+Nykoebing FC (NFC)                       8   3   1   4   18  17  1   10  WDWL
+Football Club Koebenhavn (FCK)           8   2   2   4   17  21  -4  8   LLDW
+Lyngby Boldklub (LBK)                    8   2   2   4   16  25  -9  8   LLWL
+Aalborg Boldklub (AAB)                   8   1   3   4   21  28  -7  6   LLDD
+Aarhus Gymnastikforening (AGF)           8   1   3   4   14  25  -11 6   LDLW
+~~~~~~ ROUND: 9 ~~~~~~
+Football Club Midtjylland (FCM)          9   6   1   2   23  10  13  19  LWDW
+Silkeborg Idraetsforening (SIF)          9   6   1   2   22  16  6   19  WWWW
+Vejle Boldklub (VBK)                     9   6   0   3   34  24  10  18  WLWW
+Fremad Amager (FA)                       9   5   1   3   24  18  6   16  WLDW
+AC Horsens (ACH)                         9   4   2   3   23  20  3   14  DLLL
+Football Club Nordsjaelland (FCN)        9   3   2   4   26  26  0   11  DWLL
+Braendby Idraetsforening (BIF)           9   3   2   4   20  25  -5  11  WLDL
+Lyngby Boldklub (LBK)                    9   3   2   4   21  27  -6  11  LWLW
+Nykoebing FC (NFC)                       9   3   1   5   22  22  0   10  DWLL
+Aalborg Boldklub (AAB)                   9   2   3   4   23  28  -5  9   LDDW
+Football Club Koebenhavn (FCK)           9   2   2   5   17  24  -7  8   LDWL
+Aarhus Gymnastikforening (AGF)           9   1   3   5   14  29  -15 6   DLWL
+~~~~~~ ROUND: 10 ~~~~~~
+Silkeborg Idraetsforening (SIF)          10  7   1   2   27  16  11  22  WWWW
+Vejle Boldklub (VBK)                     10  7   0   3   38  24  14  21  LWWW
+Football Club Midtjylland (FCM)          10  6   1   3   23  14  9   19  WDWL
+AC Horsens (ACH)                         10  5   2   3   25  21  4   17  LLLW
+Fremad Amager (FA)                       10  5   1   4   25  20  5   16  LDWL
+Braendby Idraetsforening (BIF)           10  4   2   4   24  27  -3  14  LDLW
+Football Club Nordsjaelland (FCN)        10  3   3   4   30  30  0   12  WLLD
+Nykoebing FC (NFC)                       10  3   2   5   26  26  0   11  WLLD
+Football Club Koebenhavn (FCK)           10  3   2   5   21  24  -3  11  DWLW
+Lyngby Boldklub (LBK)                    10  3   2   5   21  31  -10 11  WLWL
+Aalborg Boldklub (AAB)                   10  2   3   5   25  32  -7  9   DDWL
+Aarhus Gymnastikforening (AGF)           10  1   3   6   14  34  -20 6   LWLL
+~~~~~~ ROUND: 11 ~~~~~~
+Silkeborg Idraetsforening (SIF)          11  7   2   2   28  17  11  23  WWWD
+Vejle Boldklub (VBK)                     11  7   1   3   39  25  14  22  WWWD
+Football Club Midtjylland (FCM)          11  6   2   3   27  18  9   20  DWLD
+AC Horsens (ACH)                         11  6   2   3   30  23  7   20  LLWW
+Fremad Amager (FA)                       11  6   1   4   28  21  7   19  DWLW
+Nykoebing FC (NFC)                       11  4   2   5   29  28  1   14  LLDW
+Braendby Idraetsforening (BIF)           11  4   2   5   25  30  -5  14  DLWL
+Football Club Nordsjaelland (FCN)        11  3   4   4   34  34  0   13  LLDD
+Aalborg Boldklub (AAB)                   11  3   3   5   30  36  -6  12  DWLW
+Football Club Koebenhavn (FCK)           11  3   2   6   23  29  -6  11  WLWL
+Lyngby Boldklub (LBK)                    11  3   2   6   23  34  -11 11  LWLL
+Aarhus Gymnastikforening (AGF)           11  1   3   7   18  39  -21 6   WLLL
+~~~~~~ ROUND: 12 ~~~~~~
+Silkeborg Idraetsforening (SIF)          12  7   2   3   31  21  10  23  WWDL
+AC Horsens (ACH)                         12  7   2   3   33  24  9   23  LWWW
+Vejle Boldklub (VBK)                     12  7   1   4   39  30  9   22  WWDL
+Fremad Amager (FA)                       12  7   1   4   33  24  9   22  WLWW
+Football Club Midtjylland (FCM)          12  6   2   4   27  20  7   20  WLDL
+Football Club Nordsjaelland (FCN)        12  4   4   4   38  37  1   16  LDDW
+Aalborg Boldklub (AAB)                   12  4   3   5   35  36  -1  15  WLWW
+Football Club Koebenhavn (FCK)           12  4   2   6   27  29  -2  14  LWLW
+Nykoebing FC (NFC)                       12  4   2   6   29  32  -3  14  LDWL
+Braendby Idraetsforening (BIF)           12  4   2   6   26  33  -7  14  LWLL
+Lyngby Boldklub (LBK)                    12  4   2   6   25  34  -9  14  WLLW
+Aarhus Gymnastikforening (AGF)           12  1   3   8   21  44  -23 6   LLLL
+~~~~~~ ROUND: 13 ~~~~~~
+Silkeborg Idraetsforening (SIF)          13  8   2   3   36  21  15  26  WDLW
+Fremad Amager (FA)                       13  8   1   4   36  26  10  25  LWWW
+Football Club Midtjylland (FCM)          13  7   2   4   31  20  11  23  LDLW
+AC Horsens (ACH)                         13  7   2   4   34  28  6   23  WWWL
+Vejle Boldklub (VBK)                     13  7   1   5   41  33  8   22  WDLL
+Football Club Nordsjaelland (FCN)        13  5   4   4   40  38  2   19  DDWW
+Braendby Idraetsforening (BIF)           13  5   2   6   29  34  -5  17  WLLW
+Aalborg Boldklub (AAB)                   13  4   3   6   36  38  -2  15  LWWL
+Football Club Koebenhavn (FCK)           13  4   2   7   28  32  -4  14  WLWL
+Nykoebing FC (NFC)                       13  4   2   7   29  36  -7  14  DWLL
+Lyngby Boldklub (LBK)                    13  4   2   7   25  39  -14 14  LLWL
+Aarhus Gymnastikforening (AGF)           13  2   3   8   25  45  -20 9   LLLW
+~~~~~~ ROUND: 14 ~~~~~~
+Silkeborg Idraetsforening (SIF)          14  9   2   3   39  23  16  29  DLWW
+Football Club Midtjylland (FCM)          14  8   2   4   32  20  12  26  DLWW
+Fremad Amager (FA)                       14  8   1   5   37  29  8   25  WWWL
+AC Horsens (ACH)                         14  7   3   4   39  33  6   24  WWLD
+Vejle Boldklub (VBK)                     14  7   2   5   46  38  8   23  DLLD
+Football Club Nordsjaelland (FCN)        14  6   4   4   43  39  4   22  DWWW
+Braendby Idraetsforening (BIF)           14  5   2   7   33  39  -6  17  LLWL
+Aalborg Boldklub (AAB)                   14  4   4   6   36  38  -2  16  WWLD
+Lyngby Boldklub (LBK)                    14  4   3   7   25  39  -14 15  LWLD
+Football Club Koebenhavn (FCK)           14  4   2   8   28  33  -5  14  LWLL
+Nykoebing FC (NFC)                       14  4   2   8   31  39  -8  14  WLLL
+Aarhus Gymnastikforening (AGF)           14  3   3   8   30  49  -19 12  LLWW
+~~~~~~ ROUND: 15 ~~~~~~
+Silkeborg Idraetsforening (SIF)          15  10  2   3   44  24  20  32  LWWW
+AC Horsens (ACH)                         15  8   3   4   43  36  7   27  WLDW
+Vejle Boldklub (VBK)                     15  8   2   5   47  38  9   26  LLDW
+Fremad Amager (FA)                       15  8   2   5   37  29  8   26  WWLD
+Football Club Midtjylland (FCM)          15  8   2   5   33  25  8   26  LWWL
+Football Club Nordsjaelland (FCN)        15  6   4   5   46  43  3   22  WWWL
+Nykoebing FC (NFC)                       15  5   2   8   36  43  -7  17  LLLW
+Braendby Idraetsforening (BIF)           15  5   2   8   33  40  -7  17  LWLL
+Aalborg Boldklub (AAB)                   15  4   4   7   40  43  -3  16  WLDL
+Lyngby Boldklub (LBK)                    15  4   4   7   25  39  -14 16  WLDD
+Aarhus Gymnastikforening (AGF)           15  4   3   8   32  50  -18 15  LWWW
+Football Club Koebenhavn (FCK)           15  4   2   9   29  35  -6  14  WLLL
+~~~~~~ ROUND: 16 ~~~~~~
+Silkeborg Idraetsforening (SIF)          16  10  3   3   44  24  20  33  WWWD
+Vejle Boldklub (VBK)                     16  9   2   5   52  41  11  29  LDWW
+Football Club Midtjylland (FCM)          16  9   2   5   36  27  9   29  WWLW
+AC Horsens (ACH)                         16  8   3   5   45  41  4   27  LDWL
+Fremad Amager (FA)                       16  8   2   6   37  32  5   26  WLDL
+Football Club Nordsjaelland (FCN)        16  6   4   6   49  47  2   22  WWLL
+Nykoebing FC (NFC)                       16  6   2   8   39  43  -4  20  LLWW
+Braendby Idraetsforening (BIF)           16  6   2   8   37  43  -6  20  WLLW
+Lyngby Boldklub (LBK)                    16  5   4   7   30  41  -11 19  LDDW
+Aalborg Boldklub (AAB)                   16  4   4   8   42  46  -4  16  LDLL
+Football Club Koebenhavn (FCK)           16  4   3   9   29  35  -6  15  LLLD
+Aarhus Gymnastikforening (AGF)           16  4   3   9   35  55  -20 15  WWWL
+~~~~~~ ROUND: 17 ~~~~~~
+Silkeborg Idraetsforening (SIF)          17  11  3   3   49  27  22  36  WWDW
+Football Club Midtjylland (FCM)          17  10  2   5   39  28  11  32  WLWW
+Vejle Boldklub (VBK)                     17  9   3   5   54  43  11  30  DWWD
+AC Horsens (ACH)                         17  8   3   6   45  46  -1  27  DWLL
+Fremad Amager (FA)                       17  8   2   7   38  35  3   26  LDLL
+Football Club Nordsjaelland (FCN)        17  7   4   6   53  50  3   25  WLLW
+Nykoebing FC (NFC)                       17  7   2   8   44  43  1   23  LWWW
+Lyngby Boldklub (LBK)                    17  6   4   7   34  43  -9  22  DDWW
+Braendby Idraetsforening (BIF)           17  6   2   9   39  47  -8  20  LLWL
+Aalborg Boldklub (AAB)                   17  4   4   9   45  51  -6  16  DLLL
+Football Club Koebenhavn (FCK)           17  4   4   9   31  37  -6  16  LLDD
+Aarhus Gymnastikforening (AGF)           17  4   3   10  38  59  -21 15  WWLL
+~~~~~~ ROUND: 18 ~~~~~~
+Silkeborg Idraetsforening (SIF)          18  12  3   3   53  28  25  39  WDWW
+Football Club Midtjylland (FCM)          18  10  2   6   40  30  10  32  LWWL
+Vejle Boldklub (VBK)                     18  9   3   6   54  46  8   30  WWDL
+AC Horsens (ACH)                         18  9   3   6   47  47  0   30  WLLW
+Football Club Nordsjaelland (FCN)        18  8   4   6   56  50  6   28  LLWW
+Fremad Amager (FA)                       18  8   2   8   39  39  0   26  DLLL
+Nykoebing FC (NFC)                       18  7   2   9   44  45  -1  23  WWWL
+Braendby Idraetsforening (BIF)           18  7   2   9   41  47  -6  23  LWLW
+Lyngby Boldklub (LBK)                    18  6   5   7   35  44  -9  23  DWWD
+Football Club Koebenhavn (FCK)           18  5   4   9   35  37  -2  19  LDDW
+Aalborg Boldklub (AAB)                   18  4   4   10  45  55  -10 16  LLLL
+Aarhus Gymnastikforening (AGF)           18  4   4   10  39  60  -21 16  WLLD
+~~~~~~ ROUND: 19 ~~~~~~
+Silkeborg Idraetsforening (SIF)          19  13  3   3   57  31  26  42  DWWW
+Vejle Boldklub (VBK)                     19  10  3   6   58  48  10  33  WDLW
+Football Club Midtjylland (FCM)          19  10  3   6   45  35  10  33  WWLD
+AC Horsens (ACH)                         19  9   3   7   50  51  -1  30  LLWL
+Football Club Nordsjaelland (FCN)        19  8   5   6   60  54  6   29  LWWD
+Nykoebing FC (NFC)                       19  8   2   9   49  47  2   26  WWLW
+Fremad Amager (FA)                       19  8   2   9   39  43  -4  26  LLLL
+Braendby Idraetsforening (BIF)           19  7   3   9   46  52  -6  24  WLWD
+Lyngby Boldklub (LBK)                    19  6   5   8   37  48  -11 23  WWDL
+Football Club Koebenhavn (FCK)           19  5   5   9   39  41  -2  20  DDWD
+Aalborg Boldklub (AAB)                   19  5   4   10  49  55  -6  19  LLLW
+Aarhus Gymnastikforening (AGF)           19  4   4   11  41  65  -24 16  LLDL
+~~~~~~ ROUND: 20 ~~~~~~
+Silkeborg Idraetsforening (SIF)          20  14  3   3   62  31  31  45  WWWW
+Vejle Boldklub (VBK)                     20  11  3   6   63  50  13  36  DLWW
+Football Club Midtjylland (FCM)          20  10  3   7   46  39  7   33  WLDL
+AC Horsens (ACH)                         20  9   4   7   55  56  -1  31  LWLD
+Football Club Nordsjaelland (FCN)        20  8   5   7   60  58  2   29  WWDL
+Fremad Amager (FA)                       20  9   2   9   41  43  -2  29  LLLW
+Nykoebing FC (NFC)                       20  8   2   10  51  52  -1  26  WLWL
+Lyngby Boldklub (LBK)                    20  7   5   8   41  48  -7  26  WDLW
+Braendby Idraetsforening (BIF)           20  7   3   10  46  57  -11 24  LWDL
+Football Club Koebenhavn (FCK)           20  5   5   10  39  43  -4  20  DWDL
+Aalborg Boldklub (AAB)                   20  5   5   10  54  60  -6  20  LLWD
+Aarhus Gymnastikforening (AGF)           20  5   4   11  45  66  -21 19  LDLW
+~~~~~~ ROUND: 21 ~~~~~~
+Silkeborg Idraetsforening (SIF)          21  15  3   3   65  33  32  48  WWWW
+Vejle Boldklub (VBK)                     21  11  4   6   66  53  13  37  LWWD
+Football Club Midtjylland (FCM)          21  10  4   7   49  42  7   34  LDLD
+AC Horsens (ACH)                         21  10  4   7   59  57  2   34  WLDW
+Football Club Nordsjaelland (FCN)        21  8   5   8   62  61  1   29  WDLL
+Nykoebing FC (NFC)                       21  9   2   10  54  54  0   29  LWLW
+Lyngby Boldklub (LBK)                    21  8   5   8   45  48  -3  29  DLWW
+Fremad Amager (FA)                       21  9   2   10  42  47  -5  29  LLWL
+Braendby Idraetsforening (BIF)           21  8   3   10  47  57  -10 27  WDLW
+Aalborg Boldklub (AAB)                   21  5   5   11  54  61  -7  20  LWDL
+Football Club Koebenhavn (FCK)           21  5   5   11  39  47  -8  20  WDLL
+Aarhus Gymnastikforening (AGF)           21  5   4   12  47  69  -22 19  DLWL
+~~~~~~ ROUND: 22 ~~~~~~
+Silkeborg Idraetsforening (SIF)          22  16  3   3   70  33  37  51  WWWW
+Football Club Midtjylland (FCM)          22  11  4   7   52  43  9   37  DLDW
+Vejle Boldklub (VBK)                     22  11  4   7   66  58  8   37  WWDL
+AC Horsens (ACH)                         22  10  5   7   64  62  2   35  LDWD
+Nykoebing FC (NFC)                       22  9   3   10  59  59  0   30  WLWD
+Lyngby Boldklub (LBK)                    22  8   6   8   50  53  -3  30  LWWD
+Braendby Idraetsforening (BIF)           22  9   3   10  51  59  -8  30  DLWW
+Football Club Nordsjaelland (FCN)        22  8   5   9   63  64  -1  29  DLLL
+Fremad Amager (FA)                       22  9   2   11  44  51  -7  29  LWLL
+Aalborg Boldklub (AAB)                   22  6   5   11  58  63  -5  23  WDLW
+Football Club Koebenhavn (FCK)           22  5   6   11  44  52  -8  21  DLLD
+Aarhus Gymnastikforening (AGF)           22  5   4   13  49  73  -24 19  LWLL

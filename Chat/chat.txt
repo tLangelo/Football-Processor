@@ -1,0 +1,77 @@
+using System;
+using System.Collections.Generic;
+using System.IO;
+using System.Linq;
+
+namespace SoccerLeague
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            List<string> teams = new List<string> { "VBK", "SIF", "AAB", "NFC", "FCN", "FCK", "FA", "BIF", "LBK", "FCM", "ACH", "AGF" };
+
+            for (int round = 1; round <= 22; round++)
+            {
+                var matches = GenerateRound(teams, round);
+                SaveMatchesToCSV(matches, $"round_{round}.csv");
+            }
+        }
+
+        private static List<Match> GenerateRound(List<string> teams, int round)
+        {
+            int numTeams = teams.Count;
+            var matches = new List<Match>();
+
+            // Rotate the list of teams, keeping the first team fixed
+            var rotatedTeams = new List<string> { teams[0] };
+            rotatedTeams.AddRange(teams.Skip((round - 1) % (numTeams - 1)).Take(numTeams - 1));
+            rotatedTeams.AddRange(teams.Skip(1).Take((round - 1) % (numTeams - 1)));
+
+            for (int i = 0; i < numTeams / 2; i++)
+            {
+                var homeTeam = rotatedTeams[i];
+                var awayTeam = rotatedTeams[numTeams - i - 1];
+
+                var match = new Match
+                {
+                    Home = homeTeam,
+                    Away = awayTeam,
+                    HomeGoals = GenerateGoals(),
+                    AwayGoals = GenerateGoals()
+                };
+
+                matches.Add(match);
+            }
+
+            return matches;
+        }
+
+        private static int GenerateGoals()
+        {
+            Random random = new Random();
+            return random.Next(0, 6); // Random number of goals between 0 and 5
+        }
+
+        private static void SaveMatchesToCSV(List<Match> matches, string fileName)
+        {
+            using (var writer = new StreamWriter(fileName))
+            {
+                writer.WriteLine("home,away,homeGoals,awayGoals");
+
+                foreach (var match in matches)
+                {
+                    writer.WriteLine($"{match.Home},{match.Away},{match.HomeGoals},{match.AwayGoals}");
+                }
+            }
+        }
+    }
+
+    class Match
+    {
+        public string Home { get; set; }
+        public string Away { get; set; }
+        public int HomeGoals { get; set; }
+        public int AwayGoals { get; set; }
+    }
+}
